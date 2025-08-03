@@ -11,3 +11,6 @@
 - Yeonelle **( Me )**
 - Tixo **( Script Base )**
 - Rynn / Nekorinn **( API Owner )**
+---
+# 🎁 Information
+This script is not 100% made by me! I used AI to help me for some features. So, you could rename this script, modify, and more!
